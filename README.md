@@ -10,6 +10,6 @@ We will iterate on versions in line with development progress.
 - V2: adding feature engineering, under development...
 
 ## Dataset Access
-The data2.csv file is too big to upload, you can download yourself via these link:
+To access the datasets of Model-V1 (path: Test/datasets/tipdm/raw), you can download via these link:
 - https://github.com/Nicole456/Analysis-of-students-consumption-behavior-on-campus/tree/master/data
 - https://www.tipdm.org/jn2stysj/1619.jhtml
