@@ -1,4 +1,4 @@
-To access the datasets of Model-Test (path: Test/datasets/tipdm/raw), you can download via these link:
+To access the datasets of Model-Test, you can download via these link:
 
 1. https://github.com/Nicole456/Analysis-of-students-consumption-behavior-on-campus/tree/master/data
 2. https://www.tipdm.org/jn2stysj/1619.jhtml
