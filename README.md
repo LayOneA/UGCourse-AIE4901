@@ -10,6 +10,6 @@ We will iterate on versions in line with development progress.
 - V1: adding feature engineering, under development...
 
 ## Dataset Access
-To access the datasets of Model-V1 (path: Test/datasets/tipdm/raw), you can download via these link:
+To access the datasets of Model-Test (path: Test/datasets/tipdm/raw), you can download via these link:
 - https://github.com/Nicole456/Analysis-of-students-consumption-behavior-on-campus/tree/master/data
 - https://www.tipdm.org/jn2stysj/1619.jhtml
