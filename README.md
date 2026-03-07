@@ -1,10 +1,10 @@
-# AIE4901-LSTM-Solution-Private
+# AIE4901-LSTM-Solution
 
 ## Background
-This is a code repository for course "AI Capstone Project" (Code AIE4901). We uploaded an AI solution of canteen people flow prediction, this solution is based on LSTM model.
+This is the code repository for the course "AI Capstone Project" (Course Code: AIE4901). We have uploaded an LSTM-based AI solution for canteen people flow prediction.
 
 ## Version Info
-We will update versions according to the development progress.
+We will iterate on versions in line with development progress.
 
 - V1: test version, using public datasets
-- V2: adding feature engineering, under developing...
+- V2: adding feature engineering, under development...
