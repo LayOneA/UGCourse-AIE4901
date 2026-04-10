@@ -5,12 +5,12 @@ This is the code repository for the AI capstone project (Course Code: AIE4901) a
 
 In response to the prevalent and prominent issues of queuing congestion and excessive waiting time during peak lunch and dinner hours of campus canteens (around 12:00 noon and 18:00 in the evening), our team has proposed multiple technical solutions and developed matching campus canteen foot traffic prediction tools aimed at assisting faculty and students in rationally arranging their dining schedules through accurate prediction. These methods include traditional methods based on mathematical modeling, AI methods based on computer vision, and AI methods based on non-computer vision.
 
-We have uploaded an LSTM-based AI solution for canteen people flow prediction.
+This repository contains the code and model implementation of the AI methods based on non-computer vision developed by our project team. At its core, the solution adopts the Long Short-Term Memory (LSTM) as its algorithmic backbone.
 
 ## Team Members
 1. LI Wenbo(李文博)   ID:122090276 (Project Leader)
 2. WEN Langxuan(温郎萱)   ID:122090570
-3. YANG Jiahao(杨家豪)   ID:122090646 ()
+3. YANG Jiahao(杨家豪)   ID:122090646 (Responsible for Non-CV method; Owner of this repository)
 4. LEI Mingcong(雷鸣聪)  ID:122090249
 
 ## Version Info
