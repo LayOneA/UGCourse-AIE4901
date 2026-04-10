@@ -1,7 +1,9 @@
 # Smart Campus AI in Action
 
 ## Project Background
-This is the code repository for the course "AI Capstone Project" (Course Code: AIE4901). We have uploaded an LSTM-based AI solution for canteen people flow prediction.
+This is the code repository for the AI capstone project (courese code: AIE4901) of The Chinese University of Hong Kong, Shenzhen.
+
+We have uploaded an LSTM-based AI solution for canteen people flow prediction.
 
 ## Version Info
 We will iterate on versions in line with development progress.
