@@ -18,7 +18,9 @@ This repository contains the code and model implementation of the AI methods bas
 
 To share our technical solution in a compliant manner, we adopted publicly available datasets as a substitute. We made appropriate adjustments to the code structure to be compatible with the public datasets, while preserving the intact core logic of the code. This is the reason we have named this code repository the Test Version.
 
-To access the datasets of Model-Test (path: Test/datasets/tipdm/raw), you can download via these link:
+
+
+To access the datasets of Test Version (path: Test/datasets/tipdm/raw), you can download via these link:
 - https://github.com/Nicole456/Analysis-of-students-consumption-behavior-on-campus/tree/master/data
 - https://www.tipdm.org/jn2stysj/1619.jhtml
 
