@@ -14,7 +14,7 @@ This repository contains the code and model implementation of the AI methods bas
 4. LEI Mingcong(雷鸣聪)  ID:122090249
 
 ## Data Privacy Statement
-Pursuant to the data privacy protection agreement, the real campus canteen transaction record data from CUHK-Shenzhen cannot be released to any third party outside the authorized project team.
+***Pursuant to the data privacy protection agreement, the real campus canteen transaction record data from CUHK-Shenzhen cannot be released to any third party outside the authorized project team.***
 
 We will iterate on versions in line with development progress.
 
