@@ -9,11 +9,13 @@ This repository contains the code and model implementation of the AI methods bas
 
 ## Team Members
 1. LI Wenbo(李文博)   ID:122090276 (Project Leader)
-2. WEN Langxuan(温郎萱)   ID:122090570
+2. WEN Langxuan(温朗萱)   ID:122090570
 3. YANG Jiahao(杨家豪)   ID:122090646 (Responsible for Non-CV method; Owner of this repository)
 4. LEI Mingcong(雷鸣聪)  ID:122090249
 
-## Version Info
+## Data Privacy Statement
+Pursuant to the data privacy protection agreement, the real campus canteen transaction record data from CUHK-Shenzhen cannot be released to any third party outside the authorized project team.
+
 We will iterate on versions in line with development progress.
 
 - Test: test version, using public datasets
