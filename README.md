@@ -3,7 +3,7 @@
 ## Project Background
 This is the code repository for the AI capstone project (Course Code: AIE4901) at The Chinese University of Hong Kong, Shenzhen.
 
-In response to the prevalent and prominent issues of queuing congestion and excessive waiting time during peak lunch and dinner hours of campus canteens (around 12:00 noon and 18:00 in the evening), our team has proposed multiple technical solutions and developed a matching campus canteen foot traffic prediction tool aimed at assisting faculty and students in rationally arranging their dining schedules through accurate prediction of campus canteen foot traffic. These methods include traditional methods based on mathematical modeling, AI methods based on computer vision, and AI methods based on non-computer vision.
+In response to the prevalent and prominent issues of queuing congestion and excessive waiting time during peak lunch and dinner hours of campus canteens (around 12:00 noon and 18:00 in the evening), our team has proposed multiple technical solutions and developed matching campus canteen foot traffic prediction tools aimed at assisting faculty and students in rationally arranging their dining schedules through accurate prediction of campus canteen foot traffic. These methods include traditional methods based on mathematical modeling, AI methods based on computer vision, and AI methods based on non-computer vision.
 
 We have uploaded an LSTM-based AI solution for canteen people flow prediction.
 
