@@ -16,12 +16,10 @@ This repository contains the code and model implementation of the AI methods bas
 ## Data Privacy Statement
 ***Pursuant to the data privacy protection agreement, the real campus canteen transaction record data from CUHK-Shenzhen cannot be released to any third party outside the authorized project team.***
 
-We will iterate on versions in line with development progress.
+To share our technical solution in a compliant manner, we adopted publicly available datasets as a substitute. We made appropriate adjustments to the code structure to be compatible with the public datasets, while preserving the intact core logic of the code. This is the reason we have named this code repository the Test Version.
 
-- Test: test version, using public datasets
-- V1: adding feature engineering, under development...
-
-## Dataset Access
 To access the datasets of Model-Test (path: Test/datasets/tipdm/raw), you can download via these link:
 - https://github.com/Nicole456/Analysis-of-students-consumption-behavior-on-campus/tree/master/data
 - https://www.tipdm.org/jn2stysj/1619.jhtml
+
+
