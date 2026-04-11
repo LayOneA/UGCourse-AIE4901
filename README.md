@@ -23,7 +23,7 @@ The public available dataset we selected is sourced from the official competitio
 - https://www.tipdm.org/jn2stysj/1619.jhtml
 
 ## Method Overview
-
+First, we divide the full 24-hour day into 288 time slots at 5-minute intervals, e.g., `Time Slot 1` covers 00:00–00:04.
 
 ## Code Structure
 
