@@ -69,3 +69,9 @@ Test
 │  ├─main.py                    # Main workflow entry
 │  └─report_generator.py        # Generate analysis reports
 ```
+## Simulator Execution
+Navigate to the `src` directory and run `main.py`:
+```bash
+cd src
+python main.py
+```
