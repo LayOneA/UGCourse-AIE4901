@@ -75,3 +75,11 @@ Navigate to the `src` directory and run `main.py`:
 cd src
 python main.py
 ```
+## Execution Results
+After running the project, generated performance report will be saved in the `report` folder:
+```bash
+└─report
+   ├─figures
+   │  └─ ... # figure report
+   └─ ... # text report
+```
