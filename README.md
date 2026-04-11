@@ -45,27 +45,27 @@ The project directory is organized as follows:
 ```bash
 Test
 ├─data
-│ └─tipdm
-│   └─datatrans.py                   # 
+│  └─tipdm
+│     └─datatrans.py            # Data transformation script
 ├─dataset
-│ └─tipdm
-│   └─cooked
-│      └─...                         # Preprocessed data file
-│   └─raw
-│      └─...                         # Original data from TiPDM cup
+│  └─tipdm
+│     ├─cooked
+│     │   └─...                 # Preprocessed data files
+│     └─raw
+│         └─...                 # Original competition data
 ├─models
-│ └─best_model.keras                 # The best-trained LSTM model weights and architecture
+│  └─best_model.keras           # Best LSTM model checkpoint
 ├─reports
-│ └─...                              # Model performance (both images and text) 
+│  └─...                        # Model results and figures
 ├─src
-│ └─data
-│   ├─data_loader.py
-│   ├─preprocessor.py
-│   └─sequence_generator.py
-│ └─model
-│   ├─lstm_model.py
-│   └─trainer.py
-│ ├─config.py
-│ ├─main.py
-└───report_generator.py
+│  ├─data
+│  │  ├─data_loader.py          # Load transaction data
+│  │  ├─preprocessor.py         # Data preprocessing
+│  │  └─sequence_generator.py   # Generate LSTM sequences
+│  ├─model
+│  │  ├─lstm_model.py           # LSTM model definition
+│  │  └─trainer.py              # Model training logic
+│  ├─config.py                  # Project configuration
+│  ├─main.py                    # Main workflow entry
+│  └─report_generator.py        # Generate analysis reports
 ```
