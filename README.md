@@ -90,5 +90,5 @@ For the official model, we adopted historical canteen transaction record data of
 
 In the model validation stage, we selected transaction data from 9 consecutive calendar days in March 2026 of a CUHK-Shenzhen campus canteen as the offline validation dataset. The validation results show that the actual total transaction volume of this canteen in this period was 21,191 transactions, while the model-predicted total transaction volume reached 20,055 transactions. The Mean ***Absolute Percentage Error (MAPE)*** of the prediction is as low as ***5.36%***, achieving good prediction accuracy.
 
-
-
+## Contact Us
+YANG Jiahao is fully responsible for the design and implementation of this LSTM solution, and is the sole owner of this code repository. He warmly welcomes constructive critiques and improvement suggestions for this LSTM solution from the community! :D
