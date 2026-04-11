@@ -85,8 +85,7 @@ After running the project, generated performance report will be saved in the `re
 ```
 As this is a test version with limited data volume and suboptimal prediction accuracy, its relevant details will not be elaborated in this `README`. Interested user can refer to the code repository.
 
-**Model Performance of the Official Version**
-
+## Model Performance of the Official Version
 For the official model, we adopted historical canteen transaction record data officially provided by CUHK-Shenzhen as the training dataset, which covers a total of more than 600,000 valid transaction records.
 
 In the model validation stage, we selected transaction data from 9 consecutive calendar days in March 2026 of a CUHK-Shenzhen campus canteen as the offline validation dataset. The validation results show that the actual total transaction volume of this canteen in this period was 21,191 transactions, while the model-predicted total transaction volume reached 20,055 transactions. The Mean ***Absolute Percentage Error (MAPE)*** of the prediction is as low as ***5.36%***, achieving good prediction accuracy.
