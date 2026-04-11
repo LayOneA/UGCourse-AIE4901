@@ -40,4 +40,32 @@ The project implementation is divided into four core modules, with details as fo
 - **Inference Logic and Training Objective**: The model takes time series transaction volume data and corresponding features from the past 12 time slots (equivalent to 1 hour) as input, and outputs the predicted total transaction volume for the next time slot. The model uses Mean Squared Error (MSE) as the target loss function for training.
 
 ## Code Structure
+The project directory is organized as follows:
 
+```bash
+Test
+├─data
+│ └─tipdm
+│   └─datatrans.py                   # 
+├─dataset
+│ └─tipdm
+│   └─cooked
+│      └─...                         # Preprocessed data file
+│   └─raw
+│      └─...                         # Original data from TiPDM cup
+├─models
+│ └─best_model.keras                 # The best-trained LSTM model weights and architecture
+├─reports
+│ └─...                              # Model performance (both images and text) 
+├─src
+│ └─data
+│   ├─data_loader.py
+│   ├─preprocessor.py
+│   └─sequence_generator.py
+│ └─model
+│   ├─lstm_model.py
+│   └─trainer.py
+│ ├─config.py
+│ ├─main.py
+└───report_generator.py
+```
