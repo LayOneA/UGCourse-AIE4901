@@ -23,7 +23,13 @@ The public available dataset we selected is sourced from the official competitio
 - https://www.tipdm.org/jn2stysj/1619.jhtml
 
 ## Method Overview
-First, we divide the full 24-hour day into 288 time slots at 5-minute intervals, e.g., `Time Slot 1` covers 00:00–00:04.
+Specifically, this Non-Computer Vision method develops a canteen transaction volume prediction system based on the LSTM model. The core objective of the system is to accurately predict the total transaction volume of the next time slot following the current one (for the detailed definition of time slot, please refer to the subsequent description).
+
+The underlying principle of this prediction logic is as follows: the real-time foot traffic of the canteen is essentially the result of continuous accumulation of the difference between the number of incoming diners and outgoing diners in each time slot. Meanwhile, the number of outgoing diners within a single time slot can be statistically calculated using the incoming diner data from multiple preceding time slots, combined with the mathematical distribution of users' dining duration.
+
+It follows that the core of the entire prediction task lies in the statistics and prediction of incoming diners in each time slot, which can be equivalently regarded as the number of people completing transactions at the service window.
+
+**Time slot Definition**: We divide the full 24-hour day into 288 time slots at 5-minute intervals, e.g., `Time Slot 1` covers 00:00–00:04.
 
 ## Code Structure
 
