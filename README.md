@@ -57,17 +57,17 @@ Test
 │  └─best_model.keras           # Best LSTM model checkpoint
 ├─reports
 │  └─...                        # Model results and figures
-├─src
-│  ├─data
-│  │  ├─data_loader.py          # Load transaction data
-│  │  ├─preprocessor.py         # Data preprocessing
-│  │  └─sequence_generator.py   # Generate LSTM sequences
-│  ├─model
-│  │  ├─lstm_model.py           # LSTM model definition
-│  │  └─trainer.py              # Model training logic
-│  ├─config.py                  # Project configuration
-│  ├─main.py                    # Main workflow entry
-│  └─report_generator.py        # Generate analysis reports
+└─src
+   ├─data
+   │  ├─data_loader.py          # Load transaction data
+   │  ├─preprocessor.py         # Data preprocessing
+   │  └─sequence_generator.py   # Generate LSTM sequences
+   ├─model
+   │  ├─lstm_model.py           # LSTM model definition
+   │  └─trainer.py              # Model training logic
+   ├─config.py                  # Project configuration
+   ├─main.py                    # Main workflow entry
+   └─report_generator.py        # Generate analysis reports
 ```
 ## Simulator Execution
 Navigate to the `src` directory and run `main.py`:
